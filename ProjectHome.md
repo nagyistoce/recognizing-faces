@@ -1,0 +1,1 @@
+The project is divided into two parts-face detection and face recognition. It uses skin detection and quantization techniques to detect faces and then compares it from the database to recognize them.
